@@ -1,29 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 28, 2018
+**Today's Progress**: Moved forwards with "BDD in Action" book, mostly working on exercise 2.1
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** 
+  Although I picked book for learning more about BDD, it is very Java oriented and the code is a bit dated (normal for book of it's age). So far biggest challenge is not understanding BDD, but getting used to Java ecosystem.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3: December 29, 2018
+**Today's Progress**: Finished exercise, cheating a bit by copying pieces of reference implementation. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** 
+  I have always understood *why* of BDD, but strugling more with *how*. Hope this exercise will help. I will try to religiously use both(?) TDD/BDD in a "play" project of mine.
+  Curious about how well BDD applies in single-person projects.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** none
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
