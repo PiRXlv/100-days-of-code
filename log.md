@@ -6,16 +6,23 @@
 **Thoughts:** 
   Although I picked book for learning more about BDD, it is very Java oriented and the code is a bit dated (normal for book of it's age). So far biggest challenge is not understanding BDD, but getting used to Java ecosystem.
 
-### Day 3: December 29, 2018
-**Today's Progress**: Finished exercise, cheating a bit by copying pieces of reference implementation. 
+### Day 2: December 29, 2018
+**Today's Progress**: Finished exercise, cheating a bit by copying pieces of reference implementation. Kept reading till exercise 3.1 and decided it's a good point where to stop.
 
 **Thoughts:** 
   I have always understood *why* of BDD, but strugling more with *how*. Hope this exercise will help. I will try to religiously use both(?) TDD/BDD in a "play" project of mine.
   Curious about how well BDD applies in single-person projects.
-
+  Figure 3.3 is worth keeping at hand.
 
 **Link to work:** none
 
+## Future reading ##
+1. Feature Injection
+  1.1 [Chris Matts and Gojko Adzic, “Feature Injection: three steps to success”](http://www.infoq.com/articles/feature-injection-success).
+  1.2 [Liz Keogh, “Pulling Power: A New Software Lifespan”](http://www.infoq.com/articles/pulling-power)
+  1.3 [ Kent McDonald and Chris Matts, “Feature Injection: A Gentle Introduction”](http://agile2009.agilealliance.org/node/185/)
+
 **Link(s) to work**
+***note*** fix those when there are some real ones
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
