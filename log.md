@@ -29,12 +29,12 @@
 
 ## Future reading ##
 1. Feature Injection
-  1.1 [Chris Matts and Gojko Adzic, “Feature Injection: three steps to success”](http://www.infoq.com/articles/feature-injection-success).
-  1.2 [Liz Keogh, “Pulling Power: A New Software Lifespan”](http://www.infoq.com/articles/pulling-power)
-  1.3 [ Kent McDonald and Chris Matts, “Feature Injection: A Gentle Introduction”](http://agile2009.agilealliance.org/node/185/)
+    1. [Chris Matts and Gojko Adzic, “Feature Injection: three steps to success”](http://www.infoq.com/articles/feature-injection-success).
+    2. [Liz Keogh, “Pulling Power: A New Software Lifespan”](http://www.infoq.com/articles/pulling-power)
+    3. [ Kent McDonald and Chris Matts, “Feature Injection: A Gentle Introduction”](http://agile2009.agilealliance.org/node/185/)
 2. Impact mapping
-  2.1 Impact Mapping (Provoking Thoughts, 2012), Gojko Adzic
-  2.2 [Impact Mapping website](http://impactmapping.org)
+    1. Impact Mapping (Provoking Thoughts, 2012), Gojko Adzic
+    2. [Impact Mapping website](http://impactmapping.org)
 
 **Link(s) to work**
 ***note*** fix those when there are some real ones
