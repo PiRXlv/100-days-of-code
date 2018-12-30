@@ -13,6 +13,17 @@
   I have always understood *why* of BDD, but strugling more with *how*. Hope this exercise will help. I will try to religiously use both(?) TDD/BDD in a "play" project of mine.
   Curious about how well BDD applies in single-person projects.
   Figure 3.3 is worth keeping at hand.
+  
+### Day 3: December 30, 2018
+**Today's Progress**: Kept going through the book, got all the way up to chapter 4.
+
+**Thoughts:** 
+  Having vision and business goals helps with prioritizing and discovering implied requirements.
+  The 5 whys is a extremaly useful technique to get the requirements and reasoning. I should definitely do that more (and encourage team mates to do the same).
+  Impact map - mind map (why/who/how/what), starts with business goal.
+  The chapter on understanding business goals seems to be slight waste of time, as I don't expect to be able to use those techniques soon. Still a good refresher and at least some of ideas I should be able to apply at least partially.
+
+**Exercise 3.1** The goal is to make sure that there are no erroneous subsidy payments. 
 
 **Link to work:** none
 
@@ -21,6 +32,9 @@
   1.1 [Chris Matts and Gojko Adzic, “Feature Injection: three steps to success”](http://www.infoq.com/articles/feature-injection-success).
   1.2 [Liz Keogh, “Pulling Power: A New Software Lifespan”](http://www.infoq.com/articles/pulling-power)
   1.3 [ Kent McDonald and Chris Matts, “Feature Injection: A Gentle Introduction”](http://agile2009.agilealliance.org/node/185/)
+2. Impact mapping
+  2.1 Impact Mapping (Provoking Thoughts, 2012), Gojko Adzic
+  2.2 [Impact Mapping website](http://impactmapping.org)
 
 **Link(s) to work**
 ***note*** fix those when there are some real ones
