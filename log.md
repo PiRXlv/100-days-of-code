@@ -25,6 +25,15 @@
 
 **Exercise 3.1** The goal is to make sure that there are no erroneous subsidy payments. 
 
+### Day 4: December 31, 2018
+**Today's Progress**: Kept going through the book, got all the way up to chapter 5.
+
+**Thoughts:** 
+  We too often decompose features into stories based on technical implementation, instead of what value are stories delivering.
+  Chapter 4 feels more like something I would be able to use in my day-to-day job.
+  I should use story review/estimation sessions as a vehicle for discussions more often.  
+  
+  
 **Link to work:** none
 
 ## Future reading ##
@@ -35,6 +44,8 @@
 2. Impact mapping
     1. Impact Mapping (Provoking Thoughts, 2012), Gojko Adzic
     2. [Impact Mapping website](http://impactmapping.org)
+3. Deliberate Discovery
+    1. [Dan North, “Introducing Deliberate Discovery” (2010)][http://dannorth.net/2010/08/30/introducingdeliberate-discovery]
 
 **Link(s) to work**
 ***note*** fix those when there are some real ones
