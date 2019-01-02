@@ -33,6 +33,13 @@
   Chapter 4 feels more like something I would be able to use in my day-to-day job.
   I should use story review/estimation sessions as a vehicle for discussions more often.  
   
+### Day 5: January 1, 2019
+**Today's Progress**: Finished chapter 5.
+**Thoughts:** 
+  Asking right questions to unmask requirements is vital.
+  Given - past sense, when - present, Then - should.
+  Steps/preconditions describe *what* instead of *how*
+  How to distinguish between high level scenarios and "unit test" scenarios? What is difference between their format and level of detail?
   
 **Link to work:** none
 
@@ -46,6 +53,8 @@
     2. [Impact Mapping website](http://impactmapping.org)
 3. Deliberate Discovery
     1. [Dan North, “Introducing Deliberate Discovery” (2010)][http://dannorth.net/2010/08/30/introducingdeliberate-discovery]
+9. Other
+    1. [Dan North’s article, “What’s in a story”](http://dannorth.net/whats-in-a-story/)Oh
 
 **Link(s) to work**
 ***note*** fix those when there are some real ones
