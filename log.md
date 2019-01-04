@@ -40,6 +40,13 @@
   Given - past sense, when - present, Then - should.
   Steps/preconditions describe *what* instead of *how*
   How to distinguish between high level scenarios and "unit test" scenarios? What is difference between their format and level of detail?
+
+### Day 6: January 3, 2019
+**Today's Progress**: Finished chapter 6 (skipping tools I'm not interested in).
+**Thoughts:** 
+  BDD is as much about discovering scenarios as it is about automation.
+  We are writing SpecFlow "unit tests", not scenarios.
+  The `Given` part is tricky. It should include all setup logic, but some if it might be slighly lower level as it seems at first glance. As in book, you set not only the flight end points, but also setup the distance between them.
   
 **Link to work:** none
 
