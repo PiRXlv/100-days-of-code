@@ -48,20 +48,31 @@
   We are writing SpecFlow "unit tests", not scenarios.
   The `Given` part is tricky. It should include all setup logic, but some if it might be slighly lower level as it seems at first glance. As in book, you set not only the flight end points, but also setup the distance between them.
   
+### Day 7: January 6, 2019
+**Today's Progress**: Chapters 7 and 8
+**Thoughts:** 
+  Clean split betweeen *well known reference data* and *data set up before scenario* is non-trivial, but important for understandability of scenarios.
+  Using personas (known entities) for different pre-defined data sets is interesting idea to explore.
+  Step implementation details *what* instead of *how*. *How* is implemented in another (technical) layer.
+  Rules (scenarios) -> Flow (what) -> Technical (how) -> Application.
+  Webdriver or analog for Electron testing? Realiability?
+ 
+  
 **Link to work:** none
 
 ## Future reading ##
 1. Feature Injection
     1. [Chris Matts and Gojko Adzic, “Feature Injection: three steps to success”](http://www.infoq.com/articles/feature-injection-success).
     2. [Liz Keogh, “Pulling Power: A New Software Lifespan”](http://www.infoq.com/articles/pulling-power)
-    3. [ Kent McDonald and Chris Matts, “Feature Injection: A Gentle Introduction”](http://agile2009.agilealliance.org/node/185/)
+    3. [Kent McDonald and Chris Matts, “Feature Injection: A Gentle Introduction”](http://agile2009.agilealliance.org/node/185/)
 2. Impact mapping
     1. Impact Mapping (Provoking Thoughts, 2012), Gojko Adzic
     2. [Impact Mapping website](http://impactmapping.org)
 3. Deliberate Discovery
     1. [Dan North, “Introducing Deliberate Discovery” (2010)][http://dannorth.net/2010/08/30/introducingdeliberate-discovery]
 9. Other
-    1. [Dan North’s article, “What’s in a story”](http://dannorth.net/whats-in-a-story/)Oh
+    1. [Dan North’s article, “What’s in a story”](http://dannorth.net/whats-in-a-story/)
+    2.[Gojko Adzik, “How to implement UI testing without shooting yourself in the foot”](http://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/)
 
 **Link(s) to work**
 ***note*** fix those when there are some real ones
