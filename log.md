@@ -56,7 +56,11 @@
   Step implementation details *what* instead of *how*. *How* is implemented in another (technical) layer.
   Rules (scenarios) -> Flow (what) -> Technical (how) -> Application.
   Webdriver or analog for Electron testing? Realiability?
- 
+  
+### Day 8: January 7, 2019
+**Today's Progress**: Chapter 9
+**Thoughts:** 
+  You should mix testing automation against different application levels to achieve good confidence (coverage) and acceptable run time.
   
 **Link to work:** none
 
@@ -69,7 +73,7 @@
     1. Impact Mapping (Provoking Thoughts, 2012), Gojko Adzic
     2. [Impact Mapping website](http://impactmapping.org)
 3. Deliberate Discovery
-    1. [Dan North, “Introducing Deliberate Discovery” (2010)][http://dannorth.net/2010/08/30/introducingdeliberate-discovery]
+    1. [Dan North, “Introducing Deliberate Discovery” (2010)](http://dannorth.net/2010/08/30/introducingdeliberate-discovery)
 9. Other
     1. [Dan North’s article, “What’s in a story”](http://dannorth.net/whats-in-a-story/)
     2.[Gojko Adzik, “How to implement UI testing without shooting yourself in the foot”](http://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/)
