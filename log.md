@@ -35,6 +35,7 @@
   
 ### Day 5: January 1, 2019
 **Today's Progress**: Finished chapter 5.
+
 **Thoughts:** 
   Asking right questions to unmask requirements is vital.
   Given - past sense, when - present, Then - should.
@@ -43,6 +44,7 @@
 
 ### Day 6: January 3, 2019
 **Today's Progress**: Finished chapter 6 (skipping tools I'm not interested in).
+
 **Thoughts:** 
   BDD is as much about discovering scenarios as it is about automation.
   We are writing SpecFlow "unit tests", not scenarios.
@@ -50,6 +52,7 @@
   
 ### Day 7: January 6, 2019
 **Today's Progress**: Chapters 7 and 8
+
 **Thoughts:** 
   Clean split betweeen *well known reference data* and *data set up before scenario* is non-trivial, but important for understandability of scenarios.
   Using personas (known entities) for different pre-defined data sets is interesting idea to explore.
@@ -59,9 +62,21 @@
   
 ### Day 8: January 7, 2019
 **Today's Progress**: Chapter 9
+
 **Thoughts:** 
   You should mix testing automation against different application levels to achieve good confidence (coverage) and acceptable run time.
   
+### Day 9: January 9, 2019
+**Today's Progress**: Chapter 10
+
+**Thoughts:**
+  After getting step in place it's time to move to *BDD-like* unit tests for fleshing out details.
+  (granular) Priorities are already important during this phase.
+  NSpec is worth checking out.
+  Unit tests are as much about verification as they are about communication (exercise in good communication)
+  
+
+
 **Link to work:** none
 
 ## Future reading ##
@@ -77,6 +92,7 @@
 9. Other
     1. [Dan North’s article, “What’s in a story”](http://dannorth.net/whats-in-a-story/)
     2.[Gojko Adzik, “How to implement UI testing without shooting yourself in the foot”](http://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/)
+    3. Growing Object-Oriented Software, Guided by Tests, 
 
 **Link(s) to work**
 ***note*** fix those when there are some real ones
