@@ -75,7 +75,18 @@
   NSpec is worth checking out.
   Unit tests are as much about verification as they are about communication (exercise in good communication)
   
+### Day 10: January13, 2019
+**Todays progress**: Finished BDD book, switched to The Art of Unit Testing by Roy Osherove
 
+**Thoughts:**
+  I used to do a lot of coding on paper (no computer access) when I was kid. That might have contributed to the habit of mentally walking through code and executing it
+
+
+### Day 11, January 21, 2019
+**Todays progress**: Reading The Art of Unit Testing by Roy Osherove, chapter 3
+
+**Thoughts:**
+  I have to remember term "seam". Fake as generic term for everything faked
 
 **Link to work:** none
 
@@ -92,8 +103,11 @@
 9. Other
     1. [Dan North’s article, “What’s in a story”](http://dannorth.net/whats-in-a-story/)
     2.[Gojko Adzik, “How to implement UI testing without shooting yourself in the foot”](http://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/)
-    3. Growing Object-Oriented Software, Guided by Tests, 
-
+    3. Growing Object-Oriented Software, Guided by Tests,
+    4. Working Effectively with Legacy Code 
+    5. Clean Code
+    6. Dependency Injection in .NET
+ 
 **Link(s) to work**
 ***note*** fix those when there are some real ones
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
