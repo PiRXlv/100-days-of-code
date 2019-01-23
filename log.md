@@ -87,6 +87,19 @@
 
 **Thoughts:**
   I have to remember term "seam". Fake as generic term for everything faked
+  
+  
+### Day 12, January 22, 2019
+**Todays progress**: Reading The Art of Unit Testing by Roy Osherove, chapters 4 and 5
+
+**Thoughts:**
+  Try to keep one mock per test. 
+  Keep clear that you are asserting against mock. 
+  Stub can never fail the test.
+  Check out NSubstitute.
+  Hand written fakes might lead to more readable code. You need to find balance.
+  Prefer stubs over mocks.
+
 
 **Link to work:** none
 
@@ -107,6 +120,7 @@
     4. Working Effectively with Legacy Code 
     5. Clean Code
     6. Dependency Injection in .NET
+    7. xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
  
 **Link(s) to work**
 ***note*** fix those when there are some real ones
