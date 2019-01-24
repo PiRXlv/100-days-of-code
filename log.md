@@ -75,7 +75,7 @@
   NSpec is worth checking out.
   Unit tests are as much about verification as they are about communication (exercise in good communication)
   
-### Day 10: January13, 2019
+### Day 10: January 13, 2019
 **Todays progress**: Finished BDD book, switched to The Art of Unit Testing by Roy Osherove
 
 **Thoughts:**
@@ -100,6 +100,11 @@
   Hand written fakes might lead to more readable code. You need to find balance.
   Prefer stubs over mocks.
 
+### Day 13, January 24, 2019
+**Todays progress**: Created a .net core project with SpecFlow and got one (simple) test running
+
+**Thoughts:**
+  It is a bit cumbersome, but not that hard to get SpecFlow running with VScode. I probably should write a blog post about it.
 
 **Link to work:** none
 
