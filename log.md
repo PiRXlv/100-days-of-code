@@ -105,6 +105,15 @@
 
 **Thoughts:**
   It is a bit cumbersome, but not that hard to get SpecFlow running with VScode. I probably should write a blog post about it.
+  
+### Day 14, February 23, 2019
+**Todays progress**: Moving to another book, started to learn Haskell now.
+
+**Thoughts:**
+  Purity == referential transparency. Same function with same values will always return same result.
+  Free variables are variables in the body that are not bound by the head. Currying in short is that when function has multiple arguments, they have multiple (nested) heads and are reduced from left-hand side for each argument.
+  Application (arguments applied) vs Evaluation (result evaluated) - 2000/1000 vs 2 for m/n
+  I should redo last exercise from first chapter.
 
 **Link to work:** none
 
@@ -118,6 +127,10 @@
     2. [Impact Mapping website](http://impactmapping.org)
 3. Deliberate Discovery
     1. [Dan North, “Introducing Deliberate Discovery” (2010)](http://dannorth.net/2010/08/30/introducingdeliberate-discovery)
+4. Lambda calculus
+    1. [Raul Rojas. A Tutorial Introduction to the Lambda Calculus](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf)
+    2. [Henk Barendregt; Erik Barendsen. Introduction to Lambda Calculus](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)
+    3. [Jean-Yves Girard; P. Taylor; Yves Lafon. Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf)
 9. Other
     1. [Dan North’s article, “What’s in a story”](http://dannorth.net/whats-in-a-story/)
     2.[Gojko Adzik, “How to implement UI testing without shooting yourself in the foot”](http://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/)
@@ -126,6 +139,7 @@
     5. Clean Code
     6. Dependency Injection in .NET
     7. xUnit Test Patterns: Refactoring Test Code by Gerard Meszaros
+    
  
 **Link(s) to work**
 ***note*** fix those when there are some real ones
